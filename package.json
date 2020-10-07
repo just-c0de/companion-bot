@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "mysql": "github:mysqljs/mysql",
     "node-telegram-bot-api": "^0.50.0"
   }
 }
